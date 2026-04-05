@@ -7,3 +7,6 @@ build
 # Ignore compiled class files and IDE output
 *.class
 bin/
+
+# Ignore VSCode editor settings
+.vscode/
